@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>متجر تطبيقات IPA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>متجر تطبيقات IPA</h1>
+    <a href="#" class="upload-btn">إضافة تطبيق</a>
+    <div class="app-container">
+        <div class="app">
+            <h2>اسم التطبيق</h2>
+            <p>وصف التطبيق</p>
+            <p>السعر: $9.99</p>
+            <a href="#">تحميل</a>
+        </div>
+    </div>
+</body>
+</html>
