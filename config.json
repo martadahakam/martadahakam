@@ -1,0 +1,26 @@
+{
+  "inbounds": [
+    {
+      "port": 10000,
+      "protocol": "trojan",
+      "settings": {
+        "clients": [
+          {
+            "password": "JNA8J3aZFd"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": "/"
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom"
+    }
+  ]
+}
